@@ -1,6 +1,6 @@
 # Coffee & Cream: Power BI Sales Dashboard (2023)
 
-**Coffee & Cream** is a fictional local bakery and coffee shop analyzing its sales performance for the year 2023. Using a cleaned version of the “Dirty Cafe Sales” dataset from Kaggle, I developed a Power BI dashboard that provides actionable insights into revenue, costs, profit trends, and customer behavior.
+**Coffee & Cream** is a fictional local bakery and coffee shop analyzing its sales performance for the year 2023. By cleaning the “Dirty Cafe Sales” dataset from Kaggle, I developed a Power BI dashboard that provides actionable insights into revenue, costs, profit trends, and customer behavior.
 
 > This project demonstrates data cleaning, DAX modeling, visual storytelling, and business scenario analysis.
 
